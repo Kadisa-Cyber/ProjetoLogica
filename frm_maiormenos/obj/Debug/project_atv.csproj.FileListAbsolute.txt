@@ -1,0 +1,13 @@
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\bin\Debug\frm_maiormenos.exe.config
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\bin\Debug\frm_maiormenos.exe
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\bin\Debug\frm_maiormenos.pdb
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\project_atv.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\frm_maiormenos.frm_maiormenor.resources
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\frm_maiormenos.frm_placar.resources
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\frm_maiormenos.Properties.Resources.resources
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\project_atv.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\project_atv.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\frm_maiormenos.exe
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\frm_maiormenos.pdb
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\frm_maiormenos.frm_peso.resources
+C:\Users\Aluno\Downloads\project_atv\frm_maiormenos\obj\Debug\frm_maiormenos.frm_menu.resources
